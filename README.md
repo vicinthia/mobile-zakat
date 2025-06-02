@@ -6,6 +6,7 @@ Mobile Zakat is a mobile application created for zakat payments at the "Al-Ikhla
 - Flutter
 - PHP REST API
 - MySQL
+- Thermal Printer Support
 
 ## ✨ Fitur Utama
 - Input Data Muzakki
@@ -18,7 +19,7 @@ Mobile Zakat is a mobile application created for zakat payments at the "Al-Ikhla
 - Riwayat Pembagian Zakat
 - Riwayat Pembagian Zakat
 
-## 📄 Handbook Produk
+## 📄 Handbook Product
 [📘 Lihat Handbook PDF](https://drive.google.com/file/d/1LgIkjyLTDwakfCyqHHlCLriLi2Fra2TB/view?usp=drive_link)
 
 ## 📱 UI Preview
@@ -28,8 +29,8 @@ Mobile Zakat is a mobile application created for zakat payments at the "Al-Ikhla
 ## 🚀 Video Demo APK
 [⬇️ Video APK](https://drive.google.com/file/d/1NYik2BBRv0YaW71To2xP-Tz6X8-7SVjc/view?usp=sharing)
 
-## 👤 Kontribusi Saya
-Seluruh bagian aplikasi ini saya kerjakan secara mandiri, termasuk:
-- Perancangan dan pembuatan UI menggunakan Flutter.
-- Implementasi backend menggunakan PHP Rest API  dan MySQL.
-- Pengujian dan debugging aplikasi.
+## 👤 My contribution
+I worked on all parts of this application myself, including:
+- UI design and creation using Flutter.
+- Backend implementation using PHP Rest API and MySQL.
+- Application testing and debugging.
